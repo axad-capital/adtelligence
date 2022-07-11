@@ -1,0 +1,10 @@
+.nav-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 20px;
+}
+
+.nav-logo {
+    width: 200px;
+}
